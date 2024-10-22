@@ -1,8 +1,8 @@
 title: "gbljdgb's blog" # 网页标题栏（在最上面悬浮的那个）
 description: "maybe i wanna share something..." # 在网站标题下显示
 name: "gbljdgb's blog" # 网站标题
-avater: https://gbljdgb.github.io/images/avatar.png
-favicon: https://gbljdgb.github.io/images/favicon.ico
+avater: https://gbljdgb.github.io/images/avatar.png # 主页个人图片
+favicon: https://gbljdgb.github.io/images/favicon.ico # 网页标题栏的favicon（在最上面悬浮的那个）
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
