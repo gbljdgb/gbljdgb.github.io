@@ -1,5 +1,8 @@
-title: gbljdgb's website
-description: maybe i wanna share something...
+title: "gbljdgb's blog" # 网页标题栏（在最上面悬浮的那个）
+description: "maybe i wanna share something..." # 在网站标题下显示
+name: "gbljdgb's blog" # 网站标题
+avater: https://gbljdgb.github.io/images/avater.webp
+favicon: https://gbljdgb.github.io/images/favicon.ico
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
